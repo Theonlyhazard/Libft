@@ -95,4 +95,3 @@ typedef struct s_list
 
 AI was used as a support tool only (for example to explain concepts such as `memmove` overlap handling or Makefile syntax). All the code in the library was written, tested, and understood by me.
 
-# Libft
